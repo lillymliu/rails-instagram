@@ -6,20 +6,32 @@ This is assignment 1 of CS121 where the goal is to build an instagram-like site 
 ## Screenshots
 Here are some examples of how the site works:
 
+#### Homepage
 ![homepage](images/homepage.png)
 This is the homepage for the site featuring an example post. The picture is centered with the description below it.
+
+
+#### Sign Up
 
 ![sign-up](images/sign-up.png)
 After clicking *Register* in the top bar you get sent into the sign up page. 
 
+
 ![sign-up-success](images/sign-in-success.png)
 You will be notifed that your sign in was a success and the top bar changes so that if you are logged in - there is no option to log-in or register, but now you can log out!
+
+
+#### Log Out
 
 ![log-out](images/log-out.png)
 If you want to log out it will first confirm that you want to. 
 
+#### Log In
+
 ![log-in](images/log-in.png)
 Once you have been registered you can then log-in with the credentials you used before.
+
+#### New Post
 
 ![new-post](images/new-post.png)
 The most important feature is the ability to add posts and you can do it in the new post tab. Here you can upload pictures and a description. 
