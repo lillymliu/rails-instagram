@@ -15,7 +15,7 @@ After clicking *Register* in the top bar you get sent into the sign up page.
 ![sign-up-success](images/sign-in-success.png)
 You will be notifed that your sign in was a success and the top bar changes so that if you are logged in - there is no option to log-in or register, but now you can log out!
 
-![log-out](images/sign-out.png)
+![log-out](images/log-out.png)
 If you want to log out it will first confirm that you want to. 
 
 ![log-in](images/log-in.png)
